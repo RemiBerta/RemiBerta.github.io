@@ -23,6 +23,15 @@
 
 }
 
+#explication {
+    color: #e0f009;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+}
+
 /* Header */
 header {
     background-image: url(../image/photo-tattoo6.webp);
